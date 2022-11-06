@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(34, 26, 173);
+    color: gold;
+    
+}
+
+.logo {
+    background-image: url(images/barselona.png);
+    
+    height: 64px;
+    padding: 100px;
+    
+}
+
+a {
+    color:gold;
+}
